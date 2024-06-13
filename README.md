@@ -1,5 +1,7 @@
 # 6-DOF-Robotic-Manipulator-Arduino-Python
-
+<p align="center">
+  <img src="/extras/Diagram.png" alt="Arm Diagram"/>
+</p>
 ## Hardware
 
 Servos MG996R drive all the joints of the robot.
