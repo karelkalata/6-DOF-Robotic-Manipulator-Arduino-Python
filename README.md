@@ -1,6 +1,6 @@
 # 6-DOF-Robotic-Manipulator-Arduino-Python
 <p align="center">
-  <img src="/extras/Diagram.png" alt="Arm Diagram"/>
+  <img src="Robot-6-DOF-Arm-Mechanical-Robotic-Arm.png"  />
 </p>
 ## Hardware
 
