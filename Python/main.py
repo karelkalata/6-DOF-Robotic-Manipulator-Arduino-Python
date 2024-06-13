@@ -2,7 +2,7 @@ from PyQt5 import QtWidgets, uic
 from PyQt5.QtSerialPort import QSerialPort, QSerialPortInfo
 from PyQt5.QtCore import QIODevice
 
-# By default, for Servo moto like MG996R the range 0-180 is set,
+# By default, for Servos like MG996R the range 0-180 is set,
 # well if something will interfere with the servo rotation -
 # it is very bad, so you will need to calibrate the range of
 # rotation manually.
