@@ -1,4 +1,4 @@
-# 6-DOF-Robotic-Manipulator-Arduino-Python
+# 6-DOF-Robotic-Manipulator-Arduino-Python-CSharp
 <p align="center">
   <img src="Robot-6-DOF-Arm-Mechanical-Robotic-Arm.png"  />
 </p>
