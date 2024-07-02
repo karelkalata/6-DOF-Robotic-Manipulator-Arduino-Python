@@ -2,7 +2,6 @@
 <p align="center">
   <img src="Robot-6-DOF-Arm-Mechanical-Robotic-Arm.png"  />
 </p>
-## Hardware
 
 Servos MG996R drive all the joints of the robot.
 
@@ -20,7 +19,13 @@ To get started with the 6-DOF robot control system, follow these steps:
 # Repository Index
 * [sketch](https://github.com/karelkalata/6-DOF-Robotic-Manipulator-Arduino-Python/tree/main/Arduino) - sketch for Arduino IDE
 * [GUI Python](https://github.com/karelkalata/6-DOF-Robotic-Manipulator-Arduino-Python/tree/main/Python) - source files of Python
- 
+* [GUI C#](https://github.com/karelkalata/6-DOF-Robotic-Manipulator-Arduino-Python/tree/main/CSharp) - source files of C#
+
+#Added visualization of slider minimum and maximum values
+<p align="center">
+  <img src="CSharp/GUI_csharp.png"  />
+</p>
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
