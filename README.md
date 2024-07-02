@@ -21,7 +21,7 @@ To get started with the 6-DOF robot control system, follow these steps:
 * [GUI Python](https://github.com/karelkalata/6-DOF-Robotic-Manipulator-Arduino-Python/tree/main/Python) - source files of Python
 * [GUI C#](https://github.com/karelkalata/6-DOF-Robotic-Manipulator-Arduino-Python/tree/main/CSharp) - source files of C#
 
-# Added visualization of slider minimum and maximum values
+### Added visualization of slider minimum and maximum values
 <p align="center">
   <img src="CSharp/GUI_csharp.png"  />
 </p>
